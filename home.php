@@ -41,7 +41,7 @@
    </div>
 
    <footer>
-	<p> Copyrights© CloudExperience. All rights reserved. </p
+	   <p> CopyrightsÂ© CloudExperience. All rights reserved. </p>
    </footer>
 
  </div>
